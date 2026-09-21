@@ -1,0 +1,462 @@
+[
+  {
+    "id": 1,
+    "type": "mcq",
+    "question": "A term which refers to a relative division of risk between the insurer and the insured, depending upon the relative amount of the policy and the actual value of the policy.",
+    "options": [
+      "Reinsurance",
+      "Co-Insurance",
+      "Double Insurance",
+      "Over Insurance"
+    ],
+    "answer": "Co-Insurance"
+  },
+  {
+    "id": 2,
+    "type": "mcq",
+    "question": "What is the purpose of submitting a corrected claim?",
+    "options": [
+      "To cancel the patient",
+      "To correct claim information",
+      "To create a new insurance account",
+      "To change the provider"
+    ],
+    "answer": "To correct claim information"
+  },
+  {
+    "id": 3,
+    "type": "mcq",
+    "question": "A contract effect between two parties that something will or will not happen in the future; it is a binding promise or set of promises.",
+    "options": [
+      "Deed",
+      "Contract of adhesion",
+      "Bilateral Contract",
+      "Aleatory Contract"
+    ],
+    "answer": "Bilateral Contract"
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "question": "Which document generally contains the terms and conditions of an insurance agreement?",
+    "options": [
+      "Insurance policy",
+      "Driver's license",
+      "Medical record",
+      "Receipt"
+    ],
+    "answer": "Insurance policy"
+  },
+  {
+    "id": 5,
+    "type": "mcq",
+    "question": "What is a premium in insurance?",
+    "options": [
+      "A claim denial",
+      "The amount paid for insurance coverage",
+      "A provider credential",
+      "A policy number"
+    ],
+    "answer": "The amount paid for insurance coverage"
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "question": "Which party typically submits a healthcare claim to an insurer for services provided?",
+    "options": [
+      "Provider",
+      "Patient's neighbor",
+      "Bank",
+      "Pharmacy cashier"
+    ],
+    "answer": "Provider"
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "question": "What does a deductible represent?",
+    "options": [
+      "An amount the insured may pay before insurance begins paying covered costs",
+      "A provider's license",
+      "A claim number",
+      "A policy cancellation fee"
+    ],
+    "answer": "An amount the insured may pay before insurance begins paying covered costs"
+  },
+  {
+    "id": 8,
+    "type": "mcq",
+    "question": "What is a claim?",
+    "options": [
+      "A request for payment under an insurance policy",
+      "A bank transfer",
+      "A patient appointment reminder",
+      "A tax document"
+    ],
+    "answer": "A request for payment under an insurance policy"
+  },
+  {
+    "id": 9,
+    "type": "mcq",
+    "question": "What does eligibility verification generally determine?",
+    "options": [
+      "Whether coverage is active and applicable",
+      "Whether a patient owns a car",
+      "A patient's credit score",
+      "A provider's salary"
+    ],
+    "answer": "Whether coverage is active and applicable"
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "question": "What is a copayment?",
+    "options": [
+      "A fixed amount the insured pays for a covered service",
+      "The total annual premium",
+      "A claim form",
+      "A policy number"
+    ],
+    "answer": "A fixed amount the insured pays for a covered service"
+  },
+  {
+    "id": 11,
+    "type": "mcq",
+    "question": "What is coinsurance generally?",
+    "options": [
+      "A percentage of covered costs paid by the insured",
+      "A type of provider license",
+      "A claim identifier",
+      "A policy cancellation"
+    ],
+    "answer": "A percentage of covered costs paid by the insured"
+  },
+  {
+    "id": 12,
+    "type": "mcq",
+    "question": "What is an insurance beneficiary?",
+    "options": [
+      "A person or entity designated to receive specified policy benefits",
+      "A claims processor",
+      "A billing code",
+      "A provider credential"
+    ],
+    "answer": "A person or entity designated to receive specified policy benefits"
+  },
+  {
+    "id": 13,
+    "type": "mcq",
+    "question": "What is underwriting?",
+    "options": [
+      "Evaluating risk for insurance purposes",
+      "Printing claim forms",
+      "Scheduling appointments",
+      "Collecting medical records"
+    ],
+    "answer": "Evaluating risk for insurance purposes"
+  },
+  {
+    "id": 14,
+    "type": "mcq",
+    "question": "What is an insurance exclusion?",
+    "options": [
+      "A condition or service not covered by the policy",
+      "A premium payment",
+      "A provider's address",
+      "A claim submission date"
+    ],
+    "answer": "A condition or service not covered by the policy"
+  },
+  {
+    "id": 15,
+    "type": "mcq",
+    "question": "What is a policy limit?",
+    "options": [
+      "The maximum amount an insurer will pay under specified policy terms",
+      "The minimum age of a patient",
+      "The number of providers in a network",
+      "A claim's tracking number"
+    ],
+    "answer": "The maximum amount an insurer will pay under specified policy terms"
+  },
+  {
+    "id": 16,
+    "type": "mcq",
+    "question": "What is a provider network?",
+    "options": [
+      "A group of healthcare providers contracted with an insurer or plan",
+      "A patient database",
+      "A billing software license",
+      "A hospital department"
+    ],
+    "answer": "A group of healthcare providers contracted with an insurer or plan"
+  },
+  {
+    "id": 17,
+    "type": "mcq",
+    "question": "What is prior authorization?",
+    "options": [
+      "Approval required from an insurer before certain services are provided",
+      "A final claim payment",
+      "A patient invoice",
+      "A provider's tax return"
+    ],
+    "answer": "Approval required from an insurer before certain services are provided"
+  },
+  {
+    "id": 18,
+    "type": "mcq",
+    "question": "What is a claim denial?",
+    "options": [
+      "A decision not to pay a submitted claim under the applicable rules",
+      "A new insurance policy",
+      "A provider enrollment form",
+      "A premium discount"
+    ],
+    "answer": "A decision not to pay a submitted claim under the applicable rules"
+  },
+  {
+    "id": 19,
+    "type": "mcq",
+    "question": "What is an appeal in insurance claims?",
+    "options": [
+      "A request to reconsider a claim or coverage decision",
+      "A request for a new patient",
+      "A premium receipt",
+      "A provider directory"
+    ],
+    "answer": "A request to reconsider a claim or coverage decision"
+  },
+  {
+    "id": 20,
+    "type": "mcq",
+    "question": "What is a policyholder?",
+    "options": [
+      "The person or entity that owns the insurance policy",
+      "The person who processes every claim",
+      "The hospital receptionist",
+      "The billing code"
+    ],
+    "answer": "The person or entity that owns the insurance policy"
+  },
+  {
+    "id": 21,
+    "type": "mcq",
+    "question": "What is reinsurance?",
+    "options": [
+      "Insurance purchased by an insurer to transfer part of its risk",
+      "A patient's copayment",
+      "A claim correction",
+      "A provider credential"
+    ],
+    "answer": "Insurance purchased by an insurer to transfer part of its risk"
+  },
+  {
+    "id": 22,
+    "type": "mcq",
+    "question": "What is an insurance rider or endorsement?",
+    "options": [
+      "A change or addition to the terms of a policy",
+      "A claim denial",
+      "A premium receipt",
+      "A patient record"
+    ],
+    "answer": "A change or addition to the terms of a policy"
+  },
+  {
+    "id": 23,
+    "type": "mcq",
+    "question": "What does coordination of benefits generally address?",
+    "options": [
+      "How benefits are coordinated when a person has more than one health plan",
+      "How a provider is licensed",
+      "How a patient schedules a visit",
+      "How premiums are advertised"
+    ],
+    "answer": "How benefits are coordinated when a person has more than one health plan"
+  },
+  {
+    "id": 24,
+    "type": "mcq",
+    "question": "What is a claim adjustment?",
+    "options": [
+      "A change made to the amount or processing of a claim",
+      "A new insurance application",
+      "A patient's address",
+      "A provider's degree"
+    ],
+    "answer": "A change made to the amount or processing of a claim"
+  },
+  {
+    "id": 25,
+    "type": "mcq",
+    "question": "What is a premium rate?",
+    "options": [
+      "The rate used to determine an insurance premium",
+      "A claim number",
+      "A provider ID",
+      "A patient's diagnosis"
+    ],
+    "answer": "The rate used to determine an insurance premium"
+  },
+  {
+    "id": 26,
+    "type": "mcq",
+    "question": "What is an insurance application?",
+    "options": [
+      "A request containing information used to seek insurance coverage",
+      "A claim payment",
+      "A denial code",
+      "A provider invoice"
+    ],
+    "answer": "A request containing information used to seek insurance coverage"
+  },
+  {
+    "id": 27,
+    "type": "mcq",
+    "question": "What is a covered service?",
+    "options": [
+      "A service eligible for benefits under the applicable plan terms",
+      "Any service regardless of policy terms",
+      "A provider's license",
+      "A premium invoice"
+    ],
+    "answer": "A service eligible for benefits under the applicable plan terms"
+  },
+  {
+    "id": 28,
+    "type": "mcq",
+    "question": "What is a beneficiary designation?",
+    "options": [
+      "Naming who receives specified policy benefits",
+      "Assigning a claim number",
+      "Changing a provider network",
+      "Setting a premium rate"
+    ],
+    "answer": "Naming who receives specified policy benefits"
+  },
+  {
+    "id": 29,
+    "type": "mcq",
+    "question": "What is a lapse in an insurance policy?",
+    "options": [
+      "Termination of coverage because required premium payments were not maintained",
+      "A claim approval",
+      "A provider enrollment",
+      "A policy upgrade"
+    ],
+    "answer": "Termination of coverage because required premium payments were not maintained"
+  },
+  {
+    "id": 30,
+    "type": "mcq",
+    "question": "What is an insurance contract?",
+    "options": [
+      "A legally binding agreement describing insurance rights and obligations",
+      "A medical diagnosis",
+      "A provider schedule",
+      "A claim receipt"
+    ],
+    "answer": "A legally binding agreement describing insurance rights and obligations"
+  },
+  {
+    "id": 31,
+    "type": "true_false",
+    "question": "True or False: The insurer can be either an individual or a corporation as long as it is properly licensed.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 32,
+    "type": "true_false",
+    "question": "True or False: Premium rate making is the process of calculating and setting an insurance premium.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 33,
+    "type": "true_false",
+    "question": "True or False: A claim is a request for benefits or payment under an insurance policy.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 34,
+    "type": "true_false",
+    "question": "True or False: A deductible is generally an amount the insured pays before the insurer pays certain covered expenses.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 35,
+    "type": "true_false",
+    "question": "True or False: An exclusion is a service or condition that is not covered under the applicable policy terms.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 36,
+    "type": "true_false",
+    "question": "True or False: Prior authorization always means that a claim has already been paid.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 37,
+    "type": "true_false",
+    "question": "True or False: An appeal can be used to ask an insurer to reconsider a decision.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 38,
+    "type": "true_false",
+    "question": "True or False: A policy limit is the maximum amount an insurer may pay under specified policy terms.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 39,
+    "type": "true_false",
+    "question": "True or False: A participant in an insurance plan must always be the primary insured person.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 40,
+    "type": "true_false",
+    "question": "True or False: Insurance coverage can have conditions and exclusions that affect whether a service is covered.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  }
+]
